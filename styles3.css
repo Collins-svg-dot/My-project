@@ -1,0 +1,23 @@
+h2{
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+    padding: 20px;
+
+}
+th{
+    font-size: larger;
+    background:  darkblue;
+    color: white;
+    padding: 20px;
+    margin: 30px;
+    
+}
+
+
+button[type=submit]{
+    background-color: blue;
+    padding: 10px;
+    font-size: large;
+    color: white;
+}
