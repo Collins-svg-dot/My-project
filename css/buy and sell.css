@@ -1,39 +1,48 @@
-h2{
-    text-align: center;
-    background-color: darkblue;
-    color: white;
-    padding: 20px;
-
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f8f9fa;
 }
-th{
-    font-size: larger;
-    background:  darkblue;
-    color: white;
-    padding: 20px;
-    margin: 30px;
-    
-}
-
-
-button[type=submit]{
-    background-color: blue;
+nav {
+    background-color: #004080;
     padding: 10px;
-    font-size: large;
+}
+nav .nav-item .nav-link {
+    color: white !important;
+}
+nav .nav-item .nav-link:hover {
+    text-decoration: underline;
+}
+section {
+    padding: 40px 20px;
+}
+h2, h3, h4, h5 {
+    color: #004080;
+}
+table {
+    width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+    border: 1px solid #004080;
+    text-align: center;
+}
+footer {
+    background-color: #004080;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+footer a {
     color: white;
 }
-
-#purchase{
-    display: flexbox;
-    background-color: aliceblue;
-    text-decoration: wavy;
-    padding: 10px 10px;
-    margin: 10px 10px;
-    width: 100%;
+footer a:hover {
+    color: #ffcc00;
 }
-
-td{
-    background-color: aquamarine;
-    padding: 10px 10px;
-    width: 100%;
-    margin: 10px 10px;
+.form-group {
+    margin-bottom: 15px;
+}
+thead th{
+    background-color: aqua;
 }

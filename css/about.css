@@ -1,16 +1,37 @@
 
 
-
-h1{
-    background: darkblue;
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f8f9fa;
+}
+nav {
+    background-color: #004080;
+    padding: 10px;
+}
+nav .nav-item .nav-link {
+    color: white !important;
+}
+nav .nav-item .nav-link:hover {
+    text-decoration: underline;
+}
+section {
+    padding: 40px 20px;
+}
+h1 {
+    color: #004080;
+}
+h2, h3, h4, h5 {
+    color: #004080;
+}
+footer {
+    background-color: #004080;
     color: white;
-    padding: 20px;
+    padding: 20px 0;
     text-align: center;
 }
-    
-body{
-    background-color: aqua;
-    font-style: oblique;
-    font-size: larger;
+footer a {
+    color: white;
 }
-    
+footer a:hover {
+    color: #ffcc00;
+}

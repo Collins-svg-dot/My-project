@@ -1,16 +1,43 @@
-h1{
-    background-color: darkblue;
-    color: white;
-    text-align: center;
-    padding: 10px 10px;
-}
 
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    line-height: 1.6;
-    background-color: aqua;
-    padding: 10px 10px;
-    font-size: large;
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f8f9fa;
 }
- 
+nav {
+    background-color: #004080;
+    padding: 10px;
+}
+nav .nav-item .nav-link {
+    color: white !important;
+}
+nav .nav-item .nav-link:hover {
+    text-decoration: underline;
+}
+h1 {
+    color: #004080;
+    margin: 40px 0;
+    text-align: center;
+}
+#container {
+    padding: 20px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    margin-bottom: 20px;
+}
+footer {
+    background-color: #004080;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+footer a {
+    color: white;
+}
+footer a:hover {
+    color: #ffcc00;
+}
     
