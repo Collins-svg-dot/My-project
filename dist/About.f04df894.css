@@ -1,0 +1,41 @@
+body {
+  background-color: #f8f9fa;
+  font-family: Open Sans, sans-serif;
+}
+
+nav {
+  background-color: #004080;
+  padding: 10px;
+}
+
+nav .nav-item .nav-link {
+  color: #fff !important;
+}
+
+nav .nav-item .nav-link:hover {
+  text-decoration: underline;
+}
+
+section {
+  padding: 40px 20px;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #004080;
+}
+
+footer {
+  color: #fff;
+  text-align: center;
+  background-color: #004080;
+  padding: 20px 0;
+}
+
+footer a {
+  color: #fff;
+}
+
+footer a:hover {
+  color: #fc0;
+}
+/*# sourceMappingURL=About.f04df894.css.map */
