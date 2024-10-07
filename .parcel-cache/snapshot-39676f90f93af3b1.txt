@@ -1,37 +1,18 @@
-8617
-64C:\Users\Admin\OneDrive\Desktop\My project\My-project\About.html133726834352442187 0
-154C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133727115481082660 0
-97C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lightningcss\node\targets.d.ts133727115482007989 0
-98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\source-map\dist\wasm.js133727115481986398 0
-82C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\source-map\dist133727115483210964 1
-120C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\jenkins.svg133727116193558987 0
-117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.h133727115488655120 0
-121C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\bore-hole.svg133727116183524488 0
-83C:\Users\Admin\OneDrive\Desktop\My project\My-project\public\Images\Cessna-172n.jpg133708054741179888 0
-98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\regions\ER.js133727115493665502 0
-89C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\json5\lib\stringify.js133727115479939975 0
-66C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules133727116207405222 1
-104C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\transformer-babel\src\flow.js133727115480755250 0
-134C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeAttrs.js133727115485027943 0
-135C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\sort.d.ts.map133727115482936794 0
-80C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lmdb\level.js133727115489656841 0
-119C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\sitemap.svg133727116198595908 0
-102C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\type-fest\source\promise-value.d.ts133727115483536227 0
-94C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\lib\lexer\index.js133727115491101021 0
-69C:\Users\Admin\OneDrive\Desktop\My project\My-project\Learn more.html133726833351467419 0
-120C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\user-pen.svg133727116202280555 0
-98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\regions\PE.js133727115498869968 0
-76C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\term-size133727115480018487 1
-116C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133727115491974496 0
-71C:\Users\Admin\OneDrive\Desktop\My project\My-project\Buy and sell.html133726836785566111 0
+8657
 57C:\Users\Admin\OneDrive\Desktop\My project\My-project\css133715681143755866 1
+149C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeAttributesBySelector.js133727115484960402 0
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\srcset\license133727115475573649 0
+115C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\src\_apply_decorated_descriptor.mjs133727115494035677 0
+69C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.html133727976125976369 0
+119C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\page.js133727115491574812 0
+100C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\mdn-data\css\syntaxes.schema.json133727115483066644 0
 85C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\json5\lib\parse.js133727115479000554 0
 123C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\lib\definition-syntax\walk.js133727115492828448 0
 91C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\dom-serializer\README.md133727115480594350 0
 109C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\core\test\fixtures\invalid-targets133727115491250193 1
 85C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\cjs\index.cjs133727115483066644 0
-91C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\abortcontroller-polyfill133727115480917888 1
 85C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\posthtml\readme.md133727115478294860 0
+91C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\abortcontroller-polyfill133727115480917888 1
 104C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\abortcontroller-polyfill\src\utils.js133727115480712483 0
 114C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133727115488898264 0
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\regions\GF.js133727115494767676 0
@@ -40,10 +21,10 @@
 96C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\js\dist\dom\data.js133727116027872218 0
 108C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\electron-to-chromium\chromium-versions.js133727115476544142 0
 96C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\cosmiconfig\dist\merge.js.map133727115484257904 0
-71C:\Users\Admin\OneDrive\Desktop\My project\My-project\package-lock.json133727116209180708 0
+71C:\Users\Admin\OneDrive\Desktop\My project\My-project\package-lock.json133727884872877000 0
 116C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\lib\convertor\index.js133727115490918814 0
 101C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\core\lib\PackagerRunner.js133727115488624883 0
-84C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@msgpackr-extract133727116207405222 1
+84C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@msgpackr-extract133727884872044593 1
 126C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\arrows-up-down.svg133727116182485563 0
 120C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\_\_async_generator_delegate\package.json133727115480835792 0
 97C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\semver\functions\prerelease.js133727115484177912 0
@@ -52,12 +33,31 @@
 128C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\regular\calendar-xmark.svg133727116184646150 0
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\transformer-svg\LICENSE133727115475842113 0
 137C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Number.js133727115488400820 0
-58C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist133727536886540914 1
+58C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist133727976126132763 1
 121C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\42-group.svg133727116181203411 0
 109C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\utility-types\dist\aliases-and-guards.d.ts133727115481361842 0
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\lib\tokenizer\utils.js133727115492847490 0
 122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\user-nurse.svg133727116202280555 0
 84C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\has-flag\index.js133727115477074152 0
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.3da2b3ac.css.map133727674382082710 0
+115C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts.map133727115485895698 0
+115C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\core-win32-x64-msvc\swc.win32-x64-msvc.node133727115495756091 0
+118C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\apple.svg133727116181763491 0
+118C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts133727115481841279 0
+100C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\svgo\plugins\removeUselessDefs.js133727115487844642 0
+64C:\Users\Admin\OneDrive\Desktop\My project\My-project\.gitignore133727677308596407 0
+89C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\semver\functions\eq.js133727115480674555 0
+109C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\core\lib\requests\TargetRequest.js133727115490381076 0
+64C:\Users\Admin\OneDrive\Desktop\My project\My-project\About.html133726834352442187 0
+154C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133727115481082660 0
+97C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lightningcss\node\targets.d.ts133727115482007989 0
+98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\source-map\dist\wasm.js133727115481986398 0
+82C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\source-map\dist133727115483210964 1
+120C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\user-pen.svg133727116202280555 0
+98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\regions\PE.js133727115498869968 0
+76C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\term-size133727115480018487 1
+116C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133727115491974496 0
+71C:\Users\Admin\OneDrive\Desktop\My project\My-project\Buy and sell.html133727969961126256 0
 83C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\tslib\tslib.d.ts133727115480594350 0
 105C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\svg-smil.js133727115500490791 0
 75C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\boolbase133727115476926291 1
@@ -76,7 +76,7 @@
 122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\src\_class_static_private_field_update.mjs133727115494767676 0
 94C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\cosmiconfig\dist\types.d.ts133727115485895698 0
 102C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\svgo\plugins\convertStyleToAttrs.js133727115485979536 0
-64C:\Users\Admin\OneDrive\Desktop\My project\My-project\index.html133727536874730818 0
+64C:\Users\Admin\OneDrive\Desktop\My project\My-project\index.html133727975182260689 0
 111C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\lib\syntax\atrule133727115492331658 1
 125C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\sheet-plastic.svg133727116198355917 0
 89C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\nth-check\package.json133727115479776040 0
@@ -85,7 +85,44 @@
 99C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\cjs\syntax\node\CDO.cjs133727115480712483 0
 90C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@trysound\sax\README.md133727115478055004 0
 91C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\nullthrows\nullthrows.js133727115477666838 0
+124C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\dom-serializer\node_modules\entities\lib\maps\legacy.json133727115479776040 0
+120C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\terminal.svg133727116200758667 0
+76C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@popperjs133727116025452145 1
+105C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\css-sel2.js133727115491974496 0
+92C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\namer-default\lib133727115476649952 1
+85C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\msgpackr\unpack.js133727115483290931 0
+109C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\packager-js\src\ESMOutputFormat.js133727115479939975 0
+128C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\graph\test\integration\adjacency-list-shared-array.js133727115476898995 0
+98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\chrome-trace-event\package.json133727115476816371 0
+90C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\semver\classes\index.js133727115481704386 0
+113C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\cjs\_async_generator_delegate.cjs133727115490381076 0
+104C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lightningcss-win32-x64-msvc\README.md133727115477149996 0
+116C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\transformer-babel\src\BabelTransformer.js133727115479255400 0
+122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\paintbrush.svg133727116195789718 0
+88C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\entities\lib\index.js133727115479975789 0
+112C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\mdn-data\css\selectors.json133727115482716823 0
+72C:\Users\Admin\OneDrive\Desktop\My project\My-project\firebase-debug.log133727682044059862 0
+107C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\dom-serializer\node_modules\entities\lib133727115481744671 1
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\source-map\lib133727115480917888 1
+103C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\_\_dispose\package.json133727115487006988 0
+117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-select\node_modules\domutils\lib\esm\legacy.js133727115479743641 0
+86C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\stable\package.json133727115475369751 0
 65C:\Users\Admin\OneDrive\Desktop\My project\My-project\index2.html133726740187008075 0
+80C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lmdb\level.js133727115489656841 0
+119C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\sitemap.svg133727116198595908 0
+102C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\type-fest\source\promise-value.d.ts133727115483536227 0
+94C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\lib\lexer\index.js133727115491101021 0
+69C:\Users\Admin\OneDrive\Desktop\My project\My-project\Learn more.html133726833351467419 0
+120C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\jenkins.svg133727116193558987 0
+117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.h133727115488655120 0
+121C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\bore-hole.svg133727116183524488 0
+83C:\Users\Admin\OneDrive\Desktop\My project\My-project\public\Images\Cessna-172n.jpg133708054741179888 0
+98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\regions\ER.js133727115493665502 0
+89C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\json5\lib\stringify.js133727115479939975 0
+66C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules133727884872044593 1
+104C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\transformer-babel\src\flow.js133727115480755250 0
+134C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeAttrs.js133727115485027943 0
+135C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\sort.d.ts.map133727115482936794 0
 77C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-select133727115486710545 1
 133C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\cart-flatbed-suitcase.svg133727116184886140 0
 107C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\scss\mixins\_color-scheme.scss133727116030843237 0
@@ -216,7 +253,7 @@
 91C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\term-size\vendor\windows133727115478516486 1
 95C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\cjs\lexer\trace.cjs133727115489288531 0
 113C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\0.svg133727116181133337 0
-71C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc133727116207405222 1
+71C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc133727884872044593 1
 81C:\Users\Admin\OneDrive\Desktop\My project\My-project\public\Images\images 2.jpeg133726730083136230 0
 91C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\types\tsconfig.json133727115479975789 0
 110C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\console-basic.js133727115489128339 0
@@ -263,7 +300,7 @@
 71C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\.bin133727115508132773 1
 123C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\phone-slash.svg133727116196674053 0
 95C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\entities\lib\encode.d.ts.map133727115481904099 0
-85C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\.package-lock.json133727116209580822 0
+85C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\.package-lock.json133727884873375147 0
 117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\node.svg133727116195309749 0
 88C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\js-yaml\lib\schema.js133727115483210964 0
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\regions\MT.js133727115497877901 0
@@ -274,6 +311,7 @@
 95C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\htmlnano\lib\presets\max.mjs133727115487764493 0
 132C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\creative-commons-nc.svg133727116187048461 0
 94C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\domelementtype\lib\index.js133727115477561622 0
+76C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.52a19e52.js133727674381922645 0
 91C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\cjs\version.cjs133727115489600182 0
 79C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome133727116172304010 1
 95C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\lib\clean\WhiteSpace.js133727115488409507 0
@@ -309,7 +347,7 @@
 147C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\font-weight.js133727115483773701 0
 117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.c133727115483696509 0
 121C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib133727115484497909 1
-72C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@lmdb133727116207485348 1
+72C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@lmdb133727884872044593 1
 94C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\workers\src\threads133727115484641898 1
 110C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\_\_inherits_loose\package.json133727115487684240 0
 111C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\cjs\syntax\pseudo133727115486437626 1
@@ -323,10 +361,7 @@
 86C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lmdb\src\writer.cpp133727115488455540 0
 116C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\drum.svg133727116187848764 0
 103C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\brotli.js133727115487609147 0
-74C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel133727116207405222 1
-124C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\dom-serializer\node_modules\entities\lib\maps\legacy.json133727115479776040 0
-120C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\terminal.svg133727116200758667 0
-76C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@popperjs133727116025452145 1
+74C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel133727884872044593 1
 102C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\lib\syntax\pseudo\index.js133727115491180173 0
 92C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\packager-wasm\lib133727115478294860 1
 109C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\css-rrggbbaa.js133727115491920554 0
@@ -386,16 +421,6 @@
 106C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\cjs\_non_iterable_rest.cjs133727115491502153 0
 76C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\commander133727115479776040 1
 125C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\drum-steelpan.svg133727116187848764 0
-112C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\wasm-tail-calls.js133727115501892388 0
-137C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\selectors.schema.json133727115482767574 0
-88C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\react-refresh\LICENSE133727115475702811 0
-106C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\UINUGR42SAIIWM4AFGUWFDLSBU.6708e464.jpg.7224.4v133727536841395583 0
-90C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\js-yaml\lib\type\seq.js133727115483370917 0
-98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\regions\BY.js133727115488084682 0
-90C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\_\_type_of133727115489947685 1
-126C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\regular\chess-knight.svg133727116185688135 0
-128C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\ruler-horizontal.svg133727116197875522 0
-78C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\detect-libc133727115478549953 1
 94C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\cosmiconfig\dist\merge.d.ts133727115485750434 0
 152C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\subselects.js133727115480755250 0
 110C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\htmlnano\lib\modules\removeOptionalTags.cjs133727115483066644 0
@@ -414,6 +439,16 @@
 108C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\node-gyp-build-optional-packages\index.js133727115477561622 0
 102C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\esm\_async_iterator.js133727115492801368 0
 71C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso133727115488474436 1
+112C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\wasm-tail-calls.js133727115501892388 0
+137C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\selectors.schema.json133727115482767574 0
+88C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\react-refresh\LICENSE133727115475702811 0
+106C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\UINUGR42SAIIWM4AFGUWFDLSBU.6708e464.jpg.7224.4v133727536841395583 0
+90C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\js-yaml\lib\type\seq.js133727115483370917 0
+98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\regions\BY.js133727115488084682 0
+90C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\_\_type_of133727115489947685 1
+126C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\regular\chess-knight.svg133727116185688135 0
+128C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\ruler-horizontal.svg133727116197875522 0
+78C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\detect-libc133727115478549953 1
 96C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\htmlnano\docs\babel.config.js133727115483853832 0
 93C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\watcher\wrapper.js133727115477666838 0
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\regions\DZ.js133727115493458595 0
@@ -429,6 +464,7 @@
 81C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\domelementtype133727115479548199 1
 110C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\lib\definition-syntax\tokenizer.js133727115492677046 0
 121C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl-sparse.c133727115486302232 0
+77C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.11a25ab1.css133727674381922645 0
 80C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\chalk\license133727115476031963 0
 77C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\domhandler133727115479130438 1
 75C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\domutils133727115481591501 1
@@ -715,9 +751,9 @@
 108C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\cjs\syntax\node\MediaFeature.cjs133727115487519757 0
 96C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\dom-serializer\lib\index.d.ts133727115481289240 0
 123C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\regular\file-word.svg133727116189372247 0
+93C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\js-yaml\lib\schema\json.js133727115481904099 0
 120C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\ethernet.svg133727116188168958 0
 82C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\posthtml-render133727115478294860 1
-93C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\js-yaml\lib\schema\json.js133727115481904099 0
 113C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\css-mixblendmode.js133727115491180173 0
 111C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-select\node_modules\domhandler\readme.md133727115480712483 0
 104C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\runtime-js\lib\helpers\worker133727115484776268 1
@@ -730,6 +766,7 @@
 107C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\es6-number.js133727115493754718 0
 99C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\packager-js\src\utils.js133727115482041317 0
 85C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\js-yaml\lib\schema133727115481869824 1
+106C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\UINUGR42SAIIWM4AFGUWFDLSBU.6708e464.jpg.8980.3b133727952834712102 0
 110C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\lib\syntax\node\DeclarationList.js133727115490597605 0
 93C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\cache\lib\index.js133727115480124455 0
 121C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map133727116029152752 0
@@ -853,11 +890,11 @@
 104C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\scss\forms\_form-range.scss133727116030913306 0
 100C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\svgo\plugins\removeHiddenElems.js133727115487196761 0
 122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\_\_apply_decorated_descriptor\package.json133727115476864616 0
-119C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lmdb\node_modules\node-addon-api\tools\check-napi.js133727115480812740 0
-105C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\cjs\syntax\node\Condition.cjs133727115481869824 0
-141C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\definition-syntax\walk.js133727115489696957 0
 90C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\weak-lru-cache\index.js133727115477347251 0
 122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Selector.cjs133727115488430110 0
+105C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\cjs\syntax\node\Condition.cjs133727115481869824 0
+119C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lmdb\node_modules\node-addon-api\tools\check-napi.js133727115480812740 0
+141C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\definition-syntax\walk.js133727115489696957 0
 102C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\source-map\dist\source-map.debug.js133727115482629262 0
 121C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\cart-plus.svg133727116184966157 0
 123C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\deviantart.svg133727116187448743 0
@@ -946,7 +983,7 @@
 128C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib133727115477847547 1
 77C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\parcel\lib133727115477847547 1
 114C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@popperjs\core\lib\utils\detectOverflow.js.flow133727116029232693 0
-86C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\fa-solid-900.45be5413.woff2133727536886220822 0
+86C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\fa-solid-900.45be5413.woff2133727975198088133 0
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\regions\VA.js133727115501431216 0
 90C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\ordered-binary\index.js133727115477895628 0
 123C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest.c133727115486710545 0
@@ -1289,6 +1326,7 @@
 113C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\lib\parser\index.js133727115491000413 0
 109C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-select\node_modules\domhandler\LICENSE133727115476098437 0
 84C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\term-size\license133727115477399079 0
+77C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.3da2b3ac.css133727674381922645 0
 111C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts133727115487609147 0
 83C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\term-size\vendor133727115478294860 1
 95C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\semver\functions\rcompare.js133727115484417939 0
@@ -1444,13 +1482,6 @@
 144C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines133727115491574812 1
 101C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\svgo\plugins\removeStyleElement.js133727115487609147 0
 94C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\svgo\plugins\removeTitle.js133727115487684240 0
-115C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts.map133727115485895698 0
-115C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\core-win32-x64-msvc\swc.win32-x64-msvc.node133727115495756091 0
-118C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\apple.svg133727116181763491 0
-118C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts133727115481841279 0
-100C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\svgo\plugins\removeUselessDefs.js133727115487844642 0
-89C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\semver\functions\eq.js133727115480674555 0
-109C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\core\lib\requests\TargetRequest.js133727115490381076 0
 105C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\cjs\_get_prototype_of.cjs133727115491167331 0
 142C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\definition-syntax\parse.js133727115488573021 0
 124C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c133727115487196761 0
@@ -1487,7 +1518,7 @@
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\regions\YE.js133727115502638271 0
 111C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\transformer-html\src\dependencies.js133727115477533087 0
 88C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\scss\mixins133727116031553402 1
-77C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.c7c1b2f3.css133727536884538052 0
+77C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.c7c1b2f3.css133727975197083958 0
 95C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\svgo\plugins\_collections.js133727115484546485 0
 120C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\lib\syntax\function\var.js133727115492756214 0
 99C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\transformer-posthtml\src133727115478294860 1
@@ -1500,7 +1531,6 @@
 93C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\react-refresh\package.json133727115479939975 0
 100C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\htmlnano\docs\docs\040-presets.md133727115486437626 0
 90C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\svgo\lib\stringifier.js133727115482936794 0
-81C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\posthtml\types133727115478699789 1
 94C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-select\lib\general.d.ts133727115487196761 0
 84C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\svgo\lib\style.js133727115483061521 0
 113C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\cjs\syntax\function133727115489315707 1
@@ -1549,24 +1579,6 @@
 115C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\vk.svg133727116203241038 0
 89C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\supports-color\license133727115475598899 0
 93C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\core\lib\Parcel.js133727115488725321 0
-105C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\css-sel2.js133727115491974496 0
-92C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\namer-default\lib133727115476649952 1
-85C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\msgpackr\unpack.js133727115483290931 0
-109C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\packager-js\src\ESMOutputFormat.js133727115479939975 0
-128C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\graph\test\integration\adjacency-list-shared-array.js133727115476898995 0
-98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\chrome-trace-event\package.json133727115476816371 0
-90C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\semver\classes\index.js133727115481704386 0
-113C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\cjs\_async_generator_delegate.cjs133727115490381076 0
-104C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lightningcss-win32-x64-msvc\README.md133727115477149996 0
-116C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\transformer-babel\src\BabelTransformer.js133727115479255400 0
-122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\paintbrush.svg133727116195789718 0
-88C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\entities\lib\index.js133727115479975789 0
-112C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\mdn-data\css\selectors.json133727115482716823 0
-107C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\dom-serializer\node_modules\entities\lib133727115481744671 1
-81C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\source-map\lib133727115480917888 1
-103C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\_\_dispose\package.json133727115487006988 0
-117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-select\node_modules\domutils\lib\esm\legacy.js133727115479743641 0
-86C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\stable\package.json133727115475369751 0
 94C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\src\_throw.mjs133727115495654762 0
 125C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\core\test\fixtures\library-scopehoist\package.json133727115491330374 0
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\lib\tokenizer\index.js133727115491230013 0
@@ -1582,8 +1594,6 @@
 101C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\LICENSE133727115476045967 0
 116C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\flag.svg133727116189612243 0
 82C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\srcset\index.js133727115476534525 0
-149C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeAttributesBySelector.js133727115484960402 0
-81C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\srcset\license133727115475573649 0
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\regions\SV.js133727115500330756 0
 99C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lines-and-columns\build\index.js133727115476663923 0
 86C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\srcset\package.json133727115477104041 0
@@ -1629,7 +1639,7 @@
 110C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\core\test\fixtures\config\subfolder133727115480512880 1
 101C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\source-map-js\lib\binary-search.js133727115478376430 0
 134C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133727115491860360 0
-76C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.36da4070.js133727536886061465 0
+76C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.36da4070.js133727975198088133 0
 116C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\lib\tokenizer\names.js133727115491330374 0
 118C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\cookie.svg133727116186968475 0
 120C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc2.c133727115486626855 0
@@ -1871,6 +1881,7 @@
 117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\tooth.svg133727116200998641 0
 118C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\css-container-queries.js133727115490143397 0
 88C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\posthtml\package.json133727115477788341 0
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\posthtml\types133727115478699789 1
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\regions\VE.js133727115501504087 0
 95C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\posthtml\types\posthtml.d.ts133727115478810359 0
 122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\_\_object_destructuring_empty\package.json133727115488753714 0
@@ -2233,6 +2244,7 @@
 137C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\LICENSE133727115476128784 0
 124C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\core\test\fixtures\config-node-pipeline\.parcelrc133727115478743930 0
 147C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\node-gyp-build.js133727115478242030 0
+76C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.870b8653.js133727674381922645 0
 141C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js133727115478626650 0
 126C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133727115482964204 0
 112C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\msgpackr-extract\node_modules\detect-libc\lib133727115477847547 1
@@ -2351,13 +2363,14 @@
 85C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\micromatch\LICENSE133727115475598899 0
 108C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\css-regions.js133727115491813801 0
 79C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\mdn-data\api133727115480917888 1
+85C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\fa-brands-400.381ee61b.ttf133727674378559182 0
 126C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-select\node_modules\domutils\lib\esm\traversal.d.ts.map133727115485272842 0
 90C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\domhandler\lib\index.js133727115476663923 0
 124C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\bag-shopping.svg133727116182724308 0
 100C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\electron-to-chromium\package.json133727115480375359 0
 88C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\mdn-data\CHANGELOG.md133727115483616361 0
 140C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\procedure.d.ts.map133727115482687301 0
-98C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\UINUGR42SAIIWM4AFGUWFDLSBU.6708e464.jpg133727536886380969 0
+98C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\UINUGR42SAIIWM4AFGUWFDLSBU.6708e464.jpg133727975198844903 0
 134C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\compile.d.ts133727115483616361 0
 104C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\scss\forms\_form-check.scss133727116030913306 0
 119C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\cjs\syntax\node\index.cjs133727115486378314 0
@@ -2376,11 +2389,8 @@
 103C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\jpegxl.js133727115496481385 0
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lmdb\dependencies\lz4\lib\lz4.h133727115489042376 0
 113C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\lib\walker\index.js133727115491140814 0
+80C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.52a19e52.js.map133727674382082710 0
 88C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\mdn-data\css\index.js133727115477347251 0
-115C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\src\_apply_decorated_descriptor.mjs133727115494035677 0
-69C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.html133727536885821162 0
-119C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\page.js133727115491574812 0
-100C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\mdn-data\css\syntaxes.schema.json133727115483066644 0
 128C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\map-location-dot.svg133727116194429445 0
 88C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\mdn-data\api\index.js133727115476663923 0
 161C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local\index.json133727115490918814 0
@@ -2391,8 +2401,6 @@
 96C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\mdn-data\api\inheritance.json133727115480755250 0
 119C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@popperjs\core\lib\modifiers\preventOverflow.js.flow133727116029072699 0
 75C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lmdb\bin133727115489538821 1
-97C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\js-yaml\lib\schema\failsafe.js133727115480114110 0
-83C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\lib\replace133727115488244664 1
 76C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lmdb\dist133727115489947685 1
 80C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\cache133727115481361842 1
 147C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts133727115483394998 0
@@ -2597,6 +2605,7 @@
 90C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-select\lib\types.js133727115482999158 0
 118C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.c133727115485306631 0
 100C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\scss\forms\_labels.scss133727116031073389 0
+77C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.4a1e7e9b.css133727674381922645 0
 118C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.1133727115483536227 0
 112C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\runtime-browser-hmr\lib\HMRRuntime.js133727115478626650 0
 120C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\_\_class_private_method_set\package.json133727115485750434 0
@@ -2727,6 +2736,8 @@
 105C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@popperjs\core\lib\modifiers\flip.d.ts133727116028842507 0
 140C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\at-rules.schema.json133727115479310603 0
 96C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\js-yaml\lib\schema\default.js133727115479056549 0
+97C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\js-yaml\lib\schema\failsafe.js133727115480114110 0
+83C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\lib\replace133727115488244664 1
 97C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\_\_inherits_loose133727115487684240 1
 90C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\js-yaml\dist\js-yaml.js133727115481435793 0
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\core\lib\BundleGraph.js133727115485027943 0
@@ -2946,6 +2957,7 @@
 111C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\css-appearance.js133727115489656841 0
 117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\htmlnano\lib\modules\minifyConditionalComments.cjs133727115481206591 0
 102C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\watcher-win32-x64\README.md133727115477149996 0
+93C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\fa-solid-900.2bef98e0.ttf.15904.4n133727975198844903 0
 115C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\mdn-data\css\units.schema.json133727115483536227 0
 101C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\workers\src\core-worker.js133727115480917888 0
 101C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\htmlnano\lib\modules\minifyCss.mjs133727115488004716 0
@@ -3137,7 +3149,7 @@
 79C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\argparse\lib133727115478606180 1
 116C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\once-event-listener.js133727115498610224 0
 79C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\entities\lib133727115483290931 1
-77C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.bf06c0ce.css133727536884938878 0
+77C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.bf06c0ce.css133727975197083958 0
 100C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\scss\mixins\_image.scss133727116031073389 0
 83C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\argparse\LICENSE133727115475573649 0
 83C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\entities\LICENSE133727115475429964 0
@@ -3174,7 +3186,7 @@
 94C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\js\dist\button.js133727116027711902 0
 96C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\entities\lib\maps\legacy.json133727115480529454 0
 90C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\lib\replace\atrule133727115487359564 1
-80C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.cc073436.js.map133727536886300881 0
+80C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.cc073436.js.map133727974788487579 0
 129C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\regular\circle-question.svg133727116186328474 0
 109C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\cryptography.js133727115489506256 0
 111C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\entities\lib\generated\decode-data-html.d.ts133727115482783233 0
@@ -3214,6 +3226,7 @@
 114C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts133727115487844642 0
 89C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\domhandler\lib\node.js133727115477347251 0
 83C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\domutils\LICENSE133727115475429964 0
+89C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.36da4070.js.map.15904.5l133727975198844903 0
 88C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\domutils\package.json133727115480102946 0
 122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\quote-left.svg133727116197154377 0
 90C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\domutils\lib\feeds.d.ts133727115481841279 0
@@ -3376,8 +3389,6 @@
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\regions\BS.js133727115487844642 0
 107C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\mdn-data\l10n\index.js133727115478549953 0
 111C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\mdn-data\css\at-rules.json133727115479031379 0
-105C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\cjs\_array_with_holes.cjs133727115490321313 0
-114C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@popperjs\core\lib\dom-utils\getScrollParent.js133727116028272376 0
 118C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\mdn-data\css\at-rules.schema.json133727115479393700 0
 106C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\mdn-data\css\index.js133727115477446032 0
 117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\spoon.svg133727116198995910 0
@@ -3597,9 +3608,9 @@
 107C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\cjs\tokenizer133727115489208505 1
 101C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\lib\syntax\scope\value.js133727115492882650 0
 109C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\cjs\version.cjs133727115489351263 0
+122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\periscope.svg133727116196139900 0
 104C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\cjs\walker133727115486674806 1
 134C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertPathData.js133727115482250844 0
-122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\periscope.svg133727116196139900 0
 115C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\cjs\walker\create.cjs133727115483394998 0
 113C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\cjs\utils\clone.cjs133727115481411793 0
 105C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\scss\mixins\_box-shadow.scss133727116030673067 0
@@ -3708,6 +3719,7 @@
 131C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\SyntaxError.cjs133727115488748583 0
 106C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\scss\forms\_form-control.scss133727116030913306 0
 129C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\tokenizer.cjs133727115488898264 0
+80C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\download.26d8b1c5.png133727674378319060 0
 124C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\battery-half.svg133727116182884203 0
 117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\csso\node_modules\css-tree\cjs\convertor\index.cjs133727115485979536 0
 127C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-select\node_modules\entities\lib\esm\decode_codepoint.js133727115477446032 0
@@ -3817,7 +3829,6 @@
 120C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\src\_class_private_field_destructure.mjs133727115494441077 0
 103C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\dnssec.js133727115493296728 0
 100C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\lib\syntax\config\mix.js133727115491509683 0
-107C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\cjs\syntax\node\Declaration.cjs133727115484097753 0
 93C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-what\lib\es\types.d.ts133727115483290931 0
 129C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\heart-circle-plus.svg133727116191617801 0
 93C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\esm\_using.js133727115493866546 0
@@ -4002,7 +4013,7 @@
 137C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\TypeSelector.js133727115485259277 0
 95C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\logger\src\Logger.js133727115477446032 0
 130C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext\package.json133727115491043311 0
-81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\images 2.23823f08.jpeg133727536885018838 0
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\images 2.23823f08.jpeg133727975197243604 0
 105C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\cjs\tokenizer\TokenStream.cjs133727115489288531 0
 99C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\cjs\tokenizer\types.cjs133727115489315707 0
 124C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\goodreads-g.svg133727116190492750 0
@@ -4027,6 +4038,7 @@
 104C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\cjs\syntax\node\Brackets.cjs133727115480349683 0
 109C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\cjs\syntax\node\ClassSelector.cjs133727115481082660 0
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\cjs\syntax\node\common133727115484848086 1
+107C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\cjs\syntax\node\Declaration.cjs133727115484097753 0
 108C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\cjs\syntax\node\FeatureRange.cjs133727115485027943 0
 100C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\cjs\syntax\node\Hash.cjs133727115485815547 0
 122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\angle-down.svg133727116181603509 0
@@ -4124,7 +4136,7 @@
 112C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-svgo\node_modules\.bin\svgo133727115505936134 0
 110C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\cjs\definition-syntax\generate.cjs133727115485386660 0
 100C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\packager-raw\package.json133727115477925657 0
-84C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\fa-solid-900.2bef98e0.ttf133727536886061465 0
+84C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\fa-solid-900.2bef98e0.ttf133727974788024149 0
 121C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src133727115487321911 1
 106C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-tree\cjs\definition-syntax\walk.cjs133727115489656841 0
 130C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeXMLNS.js133727115486462735 0
@@ -4263,7 +4275,7 @@
 89C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\browserslist\README.md133727115479933693 0
 123C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-select\node_modules\domutils\lib\manipulation.js.map133727115484497909 0
 117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-select\node_modules\domutils\lib\querying.d.ts133727115486302232 0
-81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.f04df894.css.map133727536885645207 0
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.f04df894.css.map133727975198238405 0
 101C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\js\dist\offcanvas.js.map133727116030353076 0
 115C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-select\node_modules\domutils\lib\querying.js133727115480835792 0
 119C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\css-select\node_modules\domutils\lib\esm\querying.js133727115480674555 0
@@ -4674,6 +4686,7 @@
 102C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\fetch.js133727115493931108 0
 146C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\DeclarationList.js133727115484960402 0
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\regions\GY.js133727115495153065 0
+106C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\gulfstream_g700_ebace2022_5dwm7247.55372fbe.jpg133727674378319060 0
 143C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\default.js133727115485068811 0
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\regions\HK.js133727115495362106 0
 101C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\ping.js133727115499015276 0
@@ -4924,7 +4937,7 @@
 117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\cloud.svg133727116186648477 0
 124C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\face-flushed.svg133727116188329045 0
 131C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\data\patch.json133727115489809251 0
-81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\My-project.3464ddca.js133727536884538052 0
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\My-project.3464ddca.js133727975197083958 0
 110C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\css-gradients.js133727115490677716 0
 105C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\css-grid.js133727115490762871 0
 110C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\css-image-set.js133727115490837916 0
@@ -4981,9 +4994,9 @@
 111C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\css-textshadow.js133727115492632935 0
 112C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\css-transitions.js133727115492650384 0
 113C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\css-unicode-bidi.js133727115492677046 0
-113C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\webkit-user-drag.js133727115502137610 0
-130C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\phoenix-framework.svg133727116196674053 0
 112C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\css-unset-value.js133727115492717235 0
+130C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\phoenix-framework.svg133727116196674053 0
+113C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\webkit-user-drag.js133727115502137610 0
 110C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\css-variables.js133727115492717235 0
 110C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\css-when-else.js133727115492756214 0
 115C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\css-widows-orphans.js133727115492756214 0
@@ -5035,6 +5048,7 @@
 111C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\feature-policy.js133727115493826401 0
 104C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\fileapi.js133727115493966714 0
 113C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\wasm-bulk-memory.js133727115501757473 0
+80C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.870b8653.js.map133727674382082710 0
 107C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\filereader.js133727115493990368 0
 113C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\cjs\_class_private_method_set.cjs133727115490837916 0
 101C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\flac.js133727115494035677 0
@@ -5134,7 +5148,7 @@
 121C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\mdn-text-decoration-line.js133727115497383858 0
 126C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\mdn-text-decoration-shorthand.js133727115497383858 0
 121C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\mediacapture-fromelement.js133727115497467412 0
-83C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Cessna-172n.6cd8c1ae.jpg133727536886220822 0
+83C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Cessna-172n.6cd8c1ae.jpg133727975197800947 0
 77C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\types133727115479939975 1
 122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\basketball.svg133727116182884203 0
 108C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\mediasource.js133727115497535195 0
@@ -5174,7 +5188,7 @@
 119C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\passive-event-listener.js133727115498771359 0
 124C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\index.js133727115484097753 0
 107C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\pdf-viewer.js133727115498869968 0
-81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.ab0485ab.css.map133727536886380969 0
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.ab0485ab.css.map133727975198283828 0
 115C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\picture-in-picture.js133727115498935123 0
 104C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\picture.js133727115499015276 0
 108C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\caniuse-lite\data\features\pointerlock.js133727115499097670 0
@@ -5447,7 +5461,7 @@
 88C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\js\dist\dom133727116030433105 1
 128C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\temperature-full.svg133727116200598665 0
 100C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\js\dist\dropdown.js.map133727116030193065 0
-77C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.f04df894.css133727536884938878 0
+77C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.f04df894.css133727975197083958 0
 97C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\js\dist\offcanvas.js133727116028112303 0
 99C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\js\dist\popover.js.map133727116030353076 0
 101C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\js\dist\scrollspy.js.map133727116030433105 0
@@ -5473,7 +5487,7 @@
 116C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\css\svg-with-js.css133727116175513854 0
 112C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@popperjs\core\lib\modifiers\applyStyles.d.ts133727116028672303 0
 102C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\js\dist\util\scrollbar.js133727116028192327 0
-81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.e9a92ad8.css.map133727536886300881 0
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.e9a92ad8.css.map133727975198283828 0
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\js\dist\util\swipe.js133727116028352310 0
 102C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\bootstrap\js\dist\util\swipe.js.map133727116030433105 0
 115C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\core\lib\requests\WriteBundlesRequest.js133727115490918814 0
@@ -5757,7 +5771,7 @@
 116C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\src\_possible_constructor_return.mjs133727115495416974 0
 114C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\src\_skip_first_generator_next.mjs133727115495525883 0
 104C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\src\_sliced_to_array.mjs133727115495550719 0
-85C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\fa-brands-400.4257408a.ttf133727536885499774 0
+85C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\fa-brands-400.4257408a.ttf133727975197903353 0
 110C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\src\_sliced_to_array_loose.mjs133727115495573346 0
 115C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@popperjs\core\lib\modifiers\applyStyles.js.flow133727116028672303 0
 118C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\neuter.svg133727116195149646 0
@@ -5788,7 +5802,6 @@
 109C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\esm\_await_async_generator.js133727115492828448 0
 99C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\esm\_await_value.js133727115492847490 0
 129C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\face-rolling-eyes.svg133727116188811995 0
-104C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\cjs\_async_generator.cjs133727115490381076 0
 120C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\android.svg133727116181603509 0
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\esm\_call_super.js133727115492847490 0
 115C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\esm\_check_private_redeclaration.js133727115492882650 0
@@ -5840,7 +5853,10 @@
 108C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\cjs\_array_like_to_array.cjs133727115490321313 0
 110C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@popperjs\core\lib\modifiers\offset.js.flow133727116028992701 0
 108C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\cjs\_array_without_holes.cjs133727115490357805 0
+105C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\cjs\_array_with_holes.cjs133727115490321313 0
+114C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@popperjs\core\lib\dom-utils\getScrollParent.js133727116028272376 0
 112C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\cjs\_assert_this_initialized.cjs133727115490381076 0
+104C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\cjs\_async_generator.cjs133727115490381076 0
 107C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\cjs\_async_to_generator.cjs133727115490436794 0
 110C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\cjs\_await_async_generator.cjs133727115490436794 0
 100C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@swc\helpers\cjs\_await_value.cjs133727115490487132 0
@@ -6213,7 +6229,7 @@
 82C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\workers133727115485655065 1
 123C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\person-rays.svg133727116196430090 0
 93C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\workers\index.d.ts133727115485735264 0
-81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.86dc70ca.css.map133727536885741868 0
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.86dc70ca.css.map133727975198238405 0
 86C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\workers\lib133727115485380867 1
 90C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\workers\LICENSE133727115475842113 0
 133C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\syntaxes.json133727115482936794 0
@@ -6402,7 +6418,7 @@
 116C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\transformer-image\src\ImageTransformer.js133727115477404177 0
 109C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\transformer-image\src\loadSharp.js133727115478382305 0
 114C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\transformer-image\src\validateConfig.js133727115479268295 0
-81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.c7c1b2f3.css.map133727536885099172 0
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.c7c1b2f3.css.map133727975198238405 0
 114C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\transformer-image\lib\validateConfig.js133727115478910633 0
 95C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\transformer-html\lib133727115478810359 1
 104C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\transformer-html\package.json133727115479693487 0
@@ -6444,6 +6460,7 @@
 107C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\source-map\parcel_sourcemap_node133727115488004716 1
 107C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\source-map\parcel_sourcemap_wasm133727115480712483 1
 95C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\source-map\README.md133727115482886390 0
+107C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\UINUGR42SAIIWM4AFGUWFDLSBU.6708e464.jpg.10460.51133727952834907442 0
 121C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\power-off.svg133727116196994149 0
 117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node133727115488084682 1
 146C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\parcel_sourcemap_wasm_bg.wasm133727115488324638 0
@@ -7626,6 +7643,7 @@
 118C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\cheese.svg133727116185608115 0
 123C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\chess-board.svg133727116185688135 0
 122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\chess-king.svg133727116185688135 0
+82C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Learn more.2637e34b.css133727674381922645 0
 123C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\chess-queen.svg133727116185768113 0
 122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\chess-rook.svg133727116185848141 0
 117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\chess.svg133727116185848141 0
@@ -7663,6 +7681,7 @@
 122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\cloud-moon.svg133727116186568469 0
 122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\cloud-rain.svg133727116186648477 0
 126C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\cloud-sun-rain.svg133727116186648477 0
+102C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\istockphoto-1269547854-612x612.8d832ef6.jpg133727674378639160 0
 119C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\dungeon.svg133727116187848764 0
 114C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\js\fontawesome.js133727116177438418 0
 116C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\less\_animated.less133727116179522831 0
@@ -7671,6 +7690,7 @@
 124C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\code-compare.svg133727116186728463 0
 116C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\code.svg133727116186728463 0
 118C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\pencil.svg133727116196029746 0
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\images 2.bd23a092.jpeg133727674378319060 0
 117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\coins.svg133727116186728463 0
 122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\colon-sign.svg133727116186808479 0
 122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\hat-cowboy.svg133727116191457823 0
@@ -8127,7 +8147,7 @@
 121C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\trademark.svg133727116201158937 0
 124C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\train-subway.svg133727116201158937 0
 122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\train-tram.svg133727116201158937 0
-82C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Learn more.5cc1868e.css133727536884538052 0
+82C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Learn more.5cc1868e.css133727975197083958 0
 117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\train.svg133727116201158937 0
 123C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\transgender.svg133727116201239065 0
 121C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\tree-city.svg133727116201319044 0
@@ -8155,7 +8175,7 @@
 122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\users-rays.svg133727116202520566 0
 123C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\users-slash.svg133727116202600571 0
 123C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\van-shuttle.svg133727116202760529 0
-81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.bf06c0ce.css.map133727536885660706 0
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.bf06c0ce.css.map133727975198238405 0
 124C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\venus-double.svg133727116202760529 0
 117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\venus.svg133727116202840565 0
 122C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\solid\vial-virus.svg133727116203000539 0
@@ -8205,6 +8225,7 @@
 124C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\regular\file-audio.svg133727116189051972 0
 124C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\regular\file-image.svg133727116189212169 0
 124C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\regular\file-lines.svg133727116189212169 0
+84C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Buy and sell.3a2b33d2.css133727674381922645 0
 124C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\regular\file-video.svg133727116189372247 0
 118C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\regular\file.svg133727116189372247 0
 118C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\regular\flag.svg133727116189612243 0
@@ -8402,6 +8423,7 @@
 129C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\square-pinterest.svg133727116199316231 0
 128C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\square-snapchat.svg133727116199476254 0
 125C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\square-steam.svg133727116199476254 0
+98C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\UINUGR42SAIIWM4AFGUWFDLSBU.0f557185.jpg133727674378399203 0
 126C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\square-tumblr.svg133727116199476254 0
 126C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\square-viadeo.svg133727116199476254 0
 128C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\square-whatsapp.svg133727116199556243 0
@@ -8417,7 +8439,7 @@
 125C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\studiovinari.svg133727116199956292 0
 131C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\stumbleupon-circle.svg133727116200036230 0
 119C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\supple.svg133727116200143461 0
-87C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\fa-brands-400.55a67878.woff2133727536886141903 0
+87C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\fa-brands-400.55a67878.woff2133727975197800947 0
 117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\suse.svg133727116200198535 0
 118C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\swift.svg133727116200198535 0
 120C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\symfony.svg133727116200198535 0
@@ -8468,7 +8490,7 @@
 133C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\yandex-international.svg133727116204041065 0
 117C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\yelp.svg133727116204121207 0
 118C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\yoast.svg133727116204146289 0
-76C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.74e50795.js133727536884938878 0
+76C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.74e50795.js133727975197083958 0
 120C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\svgs\brands\youtube.svg133727116204146289 0
 115C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\sprites\brands.svg133727116184165916 0
 116C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@fortawesome\fontawesome-free\sprites\regular.svg133727116197474456 0
@@ -8526,6 +8548,7 @@
 87C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@babel\highlight\lib133727115477561622 1
 93C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@babel\highlight\README.md133727115476506653 0
 97C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@babel\highlight\tsconfig.json133727115478743930 0
+92C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\fa-solid-900.2bef98e0.ttf.8980.3l133727952835069767 0
 104C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@babel\highlight\tsconfig.tsbuildinfo133727115479381886 0
 108C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@babel\highlight\node_modules\ansi-styles133727115477561622 1
 107C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\@babel\highlight\node_modules\color-name133727115478942394 1
@@ -8586,33 +8609,50 @@
 80C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\.bin\svgo.cmd133727115506016300 0
 94C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\.bin\update-browserslist-db133727115505936134 0
 98C:\Users\Admin\OneDrive\Desktop\My project\My-project\node_modules\.bin\update-browserslist-db.cmd133727115505936134 0
-80C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.36da4070.js.map133727536886380969 0
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.11a25ab1.css.map133727674382082710 0
+80C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.36da4070.js.map133727974788487579 0
 88C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.36da4070.js.map.7224.5m133727536840271340 0
-76C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.cc073436.js133727536886061465 0
-69C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.html133727536884538052 0
-83C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Buy and sell.97993656.js133727536884538052 0
-87C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Buy and sell.97993656.js.map133727536885660706 0
-84C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Buy and sell.bb6cc349.css133727536884538052 0
-88C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Buy and sell.bb6cc349.css.map133727536885099172 0
-76C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Buy and sell.html133727536884938878 0
-80C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\download.9d3ffb28.png133727536885099172 0
+76C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.cc073436.js133727975198088133 0
+89C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.cc073436.js.map.15904.5k133727975198844903 0
+69C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\About.html133727975197243604 0
+88C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Buy and sell.3a2b33d2.css.map133727674382082710 0
+83C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Buy and sell.97993656.js133727975197083958 0
+87C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Buy and sell.97993656.js.map133727975198238405 0
+84C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Buy and sell.bb6cc349.css133727975197083958 0
+88C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Buy and sell.bb6cc349.css.map133727975198238405 0
+89C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.ab0485ab.css.map.8980.4a133727952835233380 0
+76C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Buy and sell.html133727975197083958 0
+83C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Cessna-172n.8f739630.jpg133727674378399203 0
+80C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\download.9d3ffb28.png133727975197313998 0
+87C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\fa-brands-400.a0641c0f.woff2133727674378639160 0
 92C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\fa-solid-900.2bef98e0.ttf.3292.1w133727531459320454 0
 92C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\fa-solid-900.2bef98e0.ttf.7224.4n133727536841635591 0
-101C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\gettyimages-180911690-612x612.b0abea74.jpg133727536884618278 0
-106C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\gulfstream_g700_ebace2022_5dwm7247.6fbf72ed.jpg133727536885258816 0
-80C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.74e50795.js.map133727536885660706 0
-77C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.86dc70ca.css133727536884538052 0
-77C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.ab0485ab.css133727536886061465 0
+86C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\fa-solid-900.57a8ac1f.woff2133727674378639160 0
+84C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\fa-solid-900.754eb2f2.ttf133727674378639160 0
+101C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\gettyimages-180911690-612x612.22a0fd3e.jpg133727674378639160 0
+101C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\gettyimages-180911690-612x612.b0abea74.jpg133727975197243604 0
+106C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\gulfstream_g700_ebace2022_5dwm7247.6fbf72ed.jpg133727975197636894 0
+77C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.436bdd11.css133727674381922645 0
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.436bdd11.css.map133727674382082710 0
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.4a1e7e9b.css.map133727674382082710 0
+80C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.74e50795.js.map133727975198238405 0
+77C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.8542b786.css133727674381922645 0
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.8542b786.css.map133727674382082710 0
+77C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.86dc70ca.css133727975197083958 0
+77C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.ab0485ab.css133727975197243604 0
 90C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.ab0485ab.css.map.11040.3x133727536841565321 0
 89C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.ab0485ab.css.map.3292.2k133727531459560624 0
-77C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.e9a92ad8.css133727536886061465 0
-102C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\istockphoto-1269547854-612x612.cc4567c6.jpg133727536884859844 0
-86C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Learn more.5cc1868e.css.map133727536885099172 0
-81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Learn more.d1bd1312.js133727536884938878 0
-85C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Learn more.d1bd1312.js.map133727536885660706 0
-74C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Learn more.html133727536886061465 0
-85C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\My-project.3464ddca.js.map133727536885099172 0
+77C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.ae45b368.css133727674381922645 0
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.ae45b368.css.map133727674382082710 0
+77C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\index.e9a92ad8.css133727975197243604 0
+102C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\istockphoto-1269547854-612x612.cc4567c6.jpg133727975197243604 0
+86C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Learn more.2637e34b.css.map133727674382082710 0
+86C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Learn more.5cc1868e.css.map133727975198238405 0
+81C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Learn more.d1bd1312.js133727975197237494 0
+85C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Learn more.d1bd1312.js.map133727975198283828 0
+74C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\Learn more.html133727975197243604 0
+85C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\My-project.3464ddca.js.map133727975198238405 0
 106C:\Users\Admin\OneDrive\Desktop\My project\My-project\dist\UINUGR42SAIIWM4AFGUWFDLSBU.6708e464.jpg.3292.1l133727531459320454 0
 67C:\Users\Admin\OneDrive\Desktop\My project\My-project\css\about.css133720903422269088 0
-67C:\Users\Admin\OneDrive\Desktop\My project\My-project\css\index.css133727535560852254 0
+67C:\Users\Admin\OneDrive\Desktop\My project\My-project\css\index.css133727551892057883 0
 72C:\Users\Admin\OneDrive\Desktop\My project\My-project\css\learn more.css133720917814743137 0

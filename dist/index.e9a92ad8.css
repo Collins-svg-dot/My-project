@@ -31,18 +31,18 @@ h3, h4, h5 {
   margin-top: 20px;
 }
 
-.footer {
+footer {
   color: #fff;
+  text-align: center;
   background-color: #004080;
-  padding: 0;
-  display: block;
+  padding: 20px 0;
 }
 
-.footer a {
+footer a {
   color: #fff;
 }
 
-.footer a:hover {
+footer a:hover {
   color: #fc0;
 }
 

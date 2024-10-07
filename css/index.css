@@ -24,16 +24,16 @@ h3, h4, h5 {
     color: #004080;
     margin-top: 20px;
 }
-.footer {
+footer {
     background-color: #004080;
     color: white;
-    padding: 0;
-    width: 100%;
+    padding: 20px 0;
+    text-align: center;
 }
-.footer a {
+footer a {
     color: white;
 }
-.footer a:hover {
+footer a:hover {
     color: #ffcc00;
 }
 .form-group {

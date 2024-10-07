@@ -145,51 +145,59 @@
         </div>
 
         <h3 class="mt-5"><strong>Aircraft Specifications Submission Form</strong></h3>
-        <form>
-            <div class="form-group">
-                <label for="planename">Plane Name</label>
-                <input type="text" class="form-control" id="planename" name="planename" placeholder="eg boeing-747" required>
-            </div>
-            <div class="form-group">
-                <label for="wingspan">Wingspan</label>
-                <input type="number" class="form-control" id="wingspan" name="wingspan" placeholder="eg 85m" required>
-            </div>
-            <div class="form-group">
-                <label for="manufacturer">Manufacturer</label>
-                <input type="text" class="form-control" id="manufacturer" name="manufacturer" placeholder="eg boeing, textron" required>
-            </div>
-            <div class="form-group">
-                <label for="yearofmanufacture">Year of Manufacture</label>
-                <input type="number" class="form-control" id="yearofmanufacture" name="yearofmanufacturer" placeholder="2024" required>
-            </div>
-            <div class="form-group">
-                <label for="enginetype">Engine Type</label>
-                <input type="text" class="form-control" id="enginetype" name="enginetype" placeholder="eg piston or jet type" required>
-            </div>
-            <div class="form-group">
-                <label for="passengercapacity">Passenger Capacity</label>
-                <input type="number" class="form-control" id="passengercapacity" name="passengercapacity" placeholder="eg 120" required>
-            </div>
-            <div class="form-group">
-                <label for="color">Color</label>
-                <select class="form-control" id="color" name="color">
-                    <option value="">Select a color</option>
-                    <option value="blue">Blue</option>
-                    <option value="green">Green</option>
-                    <option value="yellow">Yellow</option>
-                    <option value="black">Black</option>
-                    <option value="white">White</option>
-                </select>
-            </div>
-            <div class="form-group">
-                <label for="cargoCapacity">Cargo Capacity:</label>
-                <input type="text" class="form-control" id="cargoCapacity" name="cargoCapacity" placeholder="lbs/kg">
-            </div>
-            <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6"> <!-- Adjust the number to change width -->
+            <form>
+                <div class="form-group">
+                    <label for="planename">Plane Name</label>
+                    <input type="text" class="form-control" id="planename" name="planename" placeholder="eg boeing-747" required>
+                </div>
+                <div class="form-group">
+                    <label for="wingspan">Wingspan</label>
+                    <input type="number" class="form-control" id="wingspan" name="wingspan" placeholder="eg 85m" required>
+                </div>
+                <div class="form-group">
+                    <label for="manufacturer">Manufacturer</label>
+                    <input type="text" class="form-control" id="manufacturer" name="manufacturer" placeholder="eg boeing, textron" required>
+                </div>
+                <div class="form-group">
+                    <label for="yearofmanufacture">Year of Manufacture</label>
+                    <input type="number" class="form-control" id="yearofmanufacture" name="yearofmanufacturer" placeholder="2024" required>
+                </div>
+                <div class="form-group">
+                    <label for="enginetype">Engine Type</label>
+                    <input type="text" class="form-control" id="enginetype" name="enginetype" placeholder="eg piston or jet type" required>
+                </div>
+                <div class="form-group">
+                    <label for="passengercapacity">Passenger Capacity</label>
+                    <input type="number" class="form-control" id="passengercapacity" name="passengercapacity" placeholder="eg 120" required>
+                </div>
+                <div class="form-group">
+                    <label for="color">Color</label>
+                    <select class="form-control" id="color" name="color">
+                        <option value="">Select a color</option>
+                        <option value="blue">Blue</option>
+                        <option value="green">Green</option>
+                        <option value="yellow">Yellow</option>
+                        <option value="black">Black</option>
+                        <option value="white">White</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="cargoCapacity">Cargo Capacity:</label>
+                    <input type="text" class="form-control" id="cargoCapacity" name="cargoCapacity" placeholder="lbs/kg">
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
 
-        <h4 class="mt-5"><em>Purchase Form</em></h4>
-        <div id="purchase">
+<h4 class="mt-5"><em>Purchase Form</em></h4>
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6"> <!-- Adjust the number to change width -->
             <form action="process_purchase" method="post">
                 <div class="form-group">
                     <label for="name">Name</label>
@@ -224,6 +232,9 @@
                 <button type="submit" class="btn btn-primary mt-3">Complete Purchase</button>
             </form>
         </div>
+    </div>
+</div>
+
 
         <h5 class="mt-5"><strong>FAQs</strong></h5>
         <div class="accordion" id="faqAccordion">

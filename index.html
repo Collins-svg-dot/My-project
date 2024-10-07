@@ -127,7 +127,8 @@
                         <div class="card-body">
                             <h5 class="card-title">boeing 747</h5>
                             <p class="card-text">The best available cargo plane there is</p>
-                            <a href="#" class="btn btn-primary">View Details</a>
+                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#detailsModal1">View Details</a>
+
                         </div>
                     </div>
                 </div>
@@ -137,7 +138,8 @@
                         <div class="card-body">
                             <h5 class="card-title">gulfstream_g700_ebace2022_5dwm7247</h5>
                             <p class="card-text">If you want luxury this is the plane</p>
-                            <a href="#" class="btn btn-primary">View Details</a>
+                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#detailsModal2">View Details</a>
+
                         </div>
                     </div>
                 </div>
@@ -147,12 +149,82 @@
                         <div class="card-body">
                             <h5 class="card-title">cessna</h5>
                             <p class="card-text">The most reliable lighter aircraft.</p>
-                            <a href="#" class="btn btn-primary">View Details</a>
+                            <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#detailsModal3">View Details</a>
+
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+
+<!-- Modal for Boeing 747 -->
+<div class="modal fade" id="detailsModal1" tabindex="-1" aria-labelledby="detailsModalLabel1" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="detailsModalLabel1">Boeing 747 Details</h5>
+                <button type="button" class="btn-close" data-bs-target="#detailsModal1" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>The Boeing 747 is a wide-body airliner designed and manufactured by Boeing Commercial Airplanes. It is known for its large capacity and is often used for long-haul flights.</p>
+                <ul>
+                    <li>Capacity: 400-500 passengers</li>
+                    <li>Range: 8,000 miles</li>
+                    <li>Engines: Four engines (various types)</li>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-target="#detailsModal2" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal for Gulfstream G700 -->
+<div class="modal fade" id="detailsModal2" tabindex="-1" aria-labelledby="detailsModalLabel2" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="detailsModalLabel2">Gulfstream G700 Details</h5>
+                <button type="button" class="btn-close" data-bs-target="#detailsModal3" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>The Gulfstream G700 is a luxury business jet with state-of-the-art technology and comfort. It provides a long-range travel option with spacious interiors.</p>
+                <ul>
+                    <li>Capacity: Up to 19 passengers</li>
+                    <li>Range: 7,500 miles</li>
+                    <li>Engines: Two Rolls-Royce Pearl 700 engines</li>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal for Cessna -->
+<div class="modal fade" id="detailsModal3" tabindex="-1" aria-labelledby="detailsModalLabel3" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="detailsModalLabel3">Cessna Details</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>The Cessna 172 is a single-engine, high-wing aircraft that is widely used for flight training and personal use. Known for its reliability and ease of handling.</p>
+                <ul>
+                    <li>Capacity: 4 passengers</li>
+                    <li>Range: 800 miles</li>
+                    <li>Engine: One Lycoming IO-360</li>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
 
         <!-- Blog Highlights Section -->
         <section class="container">
@@ -164,27 +236,46 @@
                         <div class="card-body">
                             <h5 class="card-title">Understanding Aircraft Financing</h5>
                             <p class="card-text">Learn the ins and outs of financing your aircraft purchase.</p>
-                            <a href="#" class="btn btn-primary">Read More</a>
+                            <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#blogModal1">Read More</button>
+                        </div>
                         </div>
                     </div>
+                    <div class="modal fade" id="blogModal1" tabindex="-1" aria-labelledby="blogModalLabel1" aria-hidden="true">
+                        <div class="modal-dialog modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="blogModalLabel1">Understanding Aircraft Financing</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                    <p>Financing an aircraft can seem daunting, but understanding the options available can simplify the process. In this post, we cover the various financing structures, including loans and leasing options, and what you need to know to secure the best rates. We also discuss the importance of pre-approval and how it can expedite your purchase process.</p>
+                                    <p>Additionally, we share insights from industry experts and provide tips on what to consider when negotiating terms with lenders. Whether you're a first-time buyer or looking to expand your fleet, this guide will equip you with the knowledge you need.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
                    
                     <br>
 
                 
-                    <footer class="text-center footer">
-                        <div>
-                            <a href="http://instagram.com/"><i class="fa-brands fa-instagram fa-xl"></i></a>
-                            <a href="http://facebook.com/"><i class="fa-brands fa-facebook fa-xl"></i></a>
-                            <a href="http://twitter.com/"><i class="fa-brands fa-twitter fa-xl"></i></a>
-                            <a href="http://youtube.com/"><i class="fa-brands fa-youtube fa-xl"></i></a>
+                    <footer class="mt-5">
+                        <div class="container text-center">
+                            <div>
+                                <a href="http://instagram.com/"><i class="fa-brands fa-instagram fa-xl"></i></a>
+                                <a href="http://facebook.com/"><i class="fa-brands fa-facebook fa-xl"></i></a>
+                                <a href="http://twitter.com/"><i class="fa-brands fa-twitter fa-xl"></i></a>
+                                <a href="http://youtube.com/"><i class="fa-brands fa-youtube fa-xl"></i></a>
+                            </div>
+                            <div>
+                                <i class="fa-solid fa-phone fa-lg text-primary"></i> +254789097865<br />
+                                <i class="fa-solid fa-envelope fa-lg text-primary"></i> avbuyer@gmail.com
+                            </div>
                         </div>
-                        <div>
-                            <i class="fa-solid fa-phone fa-lg text-primary"></i> +254789097865<br />
-                            <i class="fa-solid fa-envelope fa-lg text-primary"></i> avbuyer@gmail.com
-                        </div>                
                     </footer>
-                
-                
                     <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
                 </body>
                 </html>
