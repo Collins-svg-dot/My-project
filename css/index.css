@@ -27,7 +27,8 @@ h3, h4, h5 {
 .footer {
     background-color: #004080;
     color: white;
-    padding: 20px 0;
+    padding: 0;
+    width: 100%;
 }
 .footer a {
     color: white;

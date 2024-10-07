@@ -34,7 +34,8 @@ h3, h4, h5 {
 .footer {
   color: #fff;
   background-color: #004080;
-  padding: 20px 0;
+  padding: 0;
+  display: block;
 }
 
 .footer a {
